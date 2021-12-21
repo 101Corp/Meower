@@ -1,7 +1,7 @@
-# Meower
+# The Real Meower
 Meower is a social media platform written in Scratch 3.0 and Python, ported to HTML for self-hosting.
 
-### [Try Meower](https://meower.org/Meower)
+### [Try The Real Meower](https://meower.org/Meower)
 
 ## Changelog for 4.8
 1. Added Login/Signup with Meower options.
